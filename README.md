@@ -18,3 +18,8 @@ why I only dare to do it in my off hours...). The
 reason is because LuaJIT is *the* de-facto fastest dynamically typed
 language, and honestly I believe LuaJIT
 leads to a more natural API compared to Python.
+
+
+## Acknowledgements
+
+This code uses the deque implementation by Pierre 'catwell' Chapuis (used under the MIT license).
