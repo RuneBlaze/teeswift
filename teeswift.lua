@@ -5,8 +5,6 @@ local BRACKET = {
     ['"'] = '"',
 }
 local pprint = require('pprint')
-
-
 if not unpack then unpack = table.unpack end
 
 -- time to reinvent the wheel...
